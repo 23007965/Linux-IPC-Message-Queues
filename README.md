@@ -53,6 +53,9 @@ int main()
 } 
 
 ```
+## OUTPUT
+
+![image](https://github.com/user-attachments/assets/e485fc20-03f6-4386-96de-fcf0570d6303)
 
 ```c
 // C Program for Message Queue (Reader Process)
@@ -92,6 +95,7 @@ int main()
 ## OUTPUT
 
 
+![image](https://github.com/user-attachments/assets/a677cb1b-9635-4a34-bd2a-49aeaebc17aa)
 
 
 # RESULT:
